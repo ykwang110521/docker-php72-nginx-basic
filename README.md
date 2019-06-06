@@ -1,0 +1,1 @@
+# Docker PHP-FPM 7.2 & Nginx 1.14 on Ubuntu Linux
